@@ -1,0 +1,93 @@
+{
+  "id": "2955308",
+  "name": "水科培训微信端",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2371075",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e752",
+      "unicode_decimal": 59218
+    },
+    {
+      "icon_id": "8724032",
+      "name": "热线",
+      "font_class": "rexian",
+      "unicode": "e884",
+      "unicode_decimal": 59524
+    },
+    {
+      "icon_id": "1212290",
+      "name": "帮助中心",
+      "font_class": "bangzhuzhongxin",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "3273891",
+      "name": "单人",
+      "font_class": "danren",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "6884426",
+      "name": "通知消息",
+      "font_class": "tongzhixiaoxi",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "8022313",
+      "name": "导入",
+      "font_class": "daoru",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "8940193",
+      "name": "pdf",
+      "font_class": "pdf",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "10156220",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "10933928",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "12219634",
+      "name": "导入",
+      "font_class": "daoru1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "21625706",
+      "name": "多人,团队,用户_jurassic",
+      "font_class": "jurassic_users",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
