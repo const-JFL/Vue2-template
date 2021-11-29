@@ -11,7 +11,7 @@ function resolve(dir){
     return path.join(__dirname, dir);
 }
 
-const INDEX_TITLE = '水科培训';
+const INDEX_TITLE = '水科培训 '; 
 
 
 // 代理地址
@@ -27,6 +27,13 @@ module.exports = {
                 args[0].title = INDEX_TITLE;
                 return args;
             });
+    },
+    css: {
+        loaderOptions: { //全局变量及函数
+            scss: {
+                data: `@import "@/assets/css/variables.scss";`
+            }
+        }
     },
     devServer: {
         open: true,
